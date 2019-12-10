@@ -1,5 +1,5 @@
 --Aviad Shalom Tzemah 211658232
---Dor Bierendorf 205444466
+--Dor Birendorf 205444466
 CREATE TABLE IF NOT EXISTS Employee(
 	"EID" INTEGER PRIMARY KEY,
 	"FirstName" VARCHAR(50),
